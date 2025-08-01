@@ -167,13 +167,13 @@ function App() {
         <div className='About-SEC'>
           <p className='ABOUT-SEC-TITLE'>CONTACT</p>
           <div className="Contact-Buttons">
-            <a href="https://www.linkedin.com/in/azwold" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/kaddour-djebbar-faycal-41452327a/" target="_blank" rel="noopener noreferrer">
               <button className="Contact-BUTTON">LinkedIn</button>
             </a>
             <a href="https://github.com/AZWOLD" target="_blank" rel="noopener noreferrer">
               <button className="Contact-BUTTON">GitHub</button>
             </a>
-            <a href="mailto:faisalkdj.dev@gmail.com">
+            <a href="mailto:faycalkdj0@gmail.com">
               <button className="Contact-BUTTON">Email Me</button>
             </a>
             <a href="/Assets/Faisal_Resume.pdf" target="_blank" rel="noopener noreferrer">
