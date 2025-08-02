@@ -141,8 +141,8 @@ function App() {
           {/* Project 3 */}
           <div className="Project-CARD">
             <div>
-              <p className="Project-CARD-TITLE">QUADRA - AI Assistant</p>
-              <p className="Project-CARD-Description">QUADRA is a smart desktop AI assistant featuring voice control, memory, and system awareness. Just say "Computer" to wake it up.</p>
+              <p className="Project-CARD-TITLE">AETHER - AI Assistant</p>
+              <p className="Project-CARD-Description">AETHER is a smart desktop AI assistant featuring voice control, memory, and system awareness. Just say "Computer" to wake it up.</p>
               <p className="Project-CARD-Description">💡 Features:</p>
               <ul className="Project-CARD-Description">
                 <li>🗣️ Voice-controlled commands</li>
