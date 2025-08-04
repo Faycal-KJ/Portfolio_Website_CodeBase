@@ -15,7 +15,7 @@ function App() {
 
   useEffect(() => {
     // GitHub public repos
-    fetch('https://api.github.com/users/AZWOLD/repos?per_page=100')
+    fetch('https://api.github.com/users/Faycal_KJ/repos?per_page=100')
       .then(res => res.json())
       .then(repos => {
         let totalStars = repos.reduce((sum, repo) => sum + repo.stargazers_count, 0);
@@ -27,7 +27,7 @@ function App() {
       });
   
     // GitHub contributions
-    fetch('https://github-contributions-api.jogruber.de/v4/azwold')
+    fetch('https://github-contributions-api.jogruber.de/v4/faycal_kj')
       .then(res => res.json())
       .then(data => {
         const contributions = data?.years?.[0]?.total || 0;
@@ -83,7 +83,7 @@ function App() {
       <section id='about'>
         <div className="Plak">
           <div className="Plak-Text">
-            <p className="HomeScreen-Para">Hi, I'm Faisal 👋</p>
+            <p className="HomeScreen-Para">Hi, I'm Faycal 👋</p>
             <p className="HomeScreen-Para">
               I'm a Computer Science student with a passion for artificial intelligence and software engineering. 
               My goal is to build intelligent systems that make life easier, more efficient, and more human.
@@ -109,7 +109,7 @@ function App() {
               <p className="Project-CARD-Description">A classic machine learning project using the Titanic dataset to predict passenger survival based on variables like age, fare, cabin, and embarkation port.</p>
               <p className="Project-CARD-Description">📈 Accuracy: ~77% | 🧰 Tools: Python, scikit-learn, Pandas</p>
               <div>
-                <a href="https://github.com/AZWOLD/Titanic_PRE_AI" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Faycal-KJ/Titanic_PRE_AI" target="_blank" rel="noreferrer">
                   <button className="Project-CARD-BUTTON">GitHub Repo</button>
                 </a>
                 <Link to="/titanic-demo" style={{ textDecoration: 'none' }}>
@@ -127,7 +127,7 @@ function App() {
               <p className="Project-CARD-Description">A deep learning model using LSTM to predict 12-hour Bitcoin trends based on the last 89 days of historical data including prices, volume, and market cap.</p>
               <p className="Project-CARD-Description">📈 Tools: Python, TensorFlow, LSTM, Matplotlib</p>
               <div>
-                <a href="https://github.com/AZWOLD/BitCoin_PRE_AI" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Faycal-KJ/BitCoin_PRE_AI" target="_blank" rel="noreferrer">
                   <button className="Project-CARD-BUTTON">GitHub Repo</button>
                 </a>
                 <Link to="/bitcoin-demo" style={{ textDecoration: 'none' }}>
@@ -152,7 +152,7 @@ function App() {
               </ul>
               <p className="Project-CARD-Description">📦 Tech: Python, OpenAI API, pyttsx3, psutil, custom wake word detection</p>
               <div>
-                <a href="https://github.com/AZWOLD/AETHER_AI_Assistant" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Faycal-KJ/AETHER_AI_Assistant" target="_blank" rel="noreferrer">
                   <button className="Project-CARD-BUTTON">GitHub Repo</button>
                 </a>
               </div>
@@ -170,7 +170,7 @@ function App() {
             <a href="https://www.linkedin.com/in/kaddour-djebbar-faycal-41452327a/" target="_blank" rel="noopener noreferrer">
               <button className="Contact-BUTTON">LinkedIn</button>
             </a>
-            <a href="https://github.com/AZWOLD" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Faycal-KJ" target="_blank" rel="noopener noreferrer">
               <button className="Contact-BUTTON">GitHub</button>
             </a>
             <a href="mailto:faycalkdj0@gmail.com">
