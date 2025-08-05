@@ -176,7 +176,7 @@ function App() {
             <a href="mailto:faycalkdj0@gmail.com">
               <button className="Contact-BUTTON">Email Me</button>
             </a>
-            <a href="https://drive.google.com/uc?export=download&id=1qFPc5rFMFtOKjicWcV5wiREZBEZ7wuFI" target="_blank" rel="noopener noreferrer">
+            <a href="https://drive.google.com/uc?export=download&id=127f4ixOJyqBziQ_x6gcT42yDABrHQxKA" target="_blank" rel="noopener noreferrer">
               <button className="Contact-BUTTON">Download CV</button>
             </a>
           </div>
