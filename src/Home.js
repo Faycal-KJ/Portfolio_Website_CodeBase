@@ -15,13 +15,13 @@ function App() {
 
   useEffect(() => {
     // GitHub public repos
-    fetch('https://api.github.com/users/Faycal_KJ/repos?per_page=100')
+    fetch('https://api.github.com/users/Faycal-KJ/repos?per_page=100')
       .then(res => res.json())
       .then(repos => {
         let totalStars = repos.reduce((sum, repo) => sum + repo.stargazers_count, 0);
         setGithubStats(prev => ({
           ...prev,
-          publicRepos: repos.length,
+          publicRepos: repos.length - 1,
           stars: totalStars,
         }));
       });
