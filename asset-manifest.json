@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio_Website_CodeBase/static/css/main.d430b567.css",
+    "main.css": "/Portfolio_Website_CodeBase/static/css/main.73d4d22b.css",
     "main.js": "/Portfolio_Website_CodeBase/static/js/main.5ce0a5c6.js",
     "static/js/488.da06dc2b.chunk.js": "/Portfolio_Website_CodeBase/static/js/488.da06dc2b.chunk.js",
     "static/media/HomeSCREEnVideo.webm": "/Portfolio_Website_CodeBase/static/media/HomeSCREEnVideo.419349489385c051e113.webm",
@@ -9,12 +9,12 @@
     "static/media/Titanic1.png": "/Portfolio_Website_CodeBase/static/media/Titanic1.dbce084748d24d36940c.png",
     "static/media/Logo.png": "/Portfolio_Website_CodeBase/static/media/Logo.6937f876e51019a3f0e8.png",
     "index.html": "/Portfolio_Website_CodeBase/index.html",
-    "main.d430b567.css.map": "/Portfolio_Website_CodeBase/static/css/main.d430b567.css.map",
+    "main.73d4d22b.css.map": "/Portfolio_Website_CodeBase/static/css/main.73d4d22b.css.map",
     "main.5ce0a5c6.js.map": "/Portfolio_Website_CodeBase/static/js/main.5ce0a5c6.js.map",
     "488.da06dc2b.chunk.js.map": "/Portfolio_Website_CodeBase/static/js/488.da06dc2b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d430b567.css",
+    "static/css/main.73d4d22b.css",
     "static/js/main.5ce0a5c6.js"
   ]
 }
