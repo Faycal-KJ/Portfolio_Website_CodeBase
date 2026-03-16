@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_Website_CodeBase/static/css/main.cbcd6fcf.css",
-    "main.js": "/Portfolio_Website_CodeBase/static/js/main.b5949416.js",
+    "main.js": "/Portfolio_Website_CodeBase/static/js/main.f2c32925.js",
     "static/js/488.da06dc2b.chunk.js": "/Portfolio_Website_CodeBase/static/js/488.da06dc2b.chunk.js",
     "static/media/HomeSCREEnVideo.webm": "/Portfolio_Website_CodeBase/static/media/HomeSCREEnVideo.419349489385c051e113.webm",
     "static/media/Bitcoin.png": "/Portfolio_Website_CodeBase/static/media/Bitcoin.091420e29ad30b551059.png",
@@ -10,11 +10,11 @@
     "static/media/Logo.png": "/Portfolio_Website_CodeBase/static/media/Logo.6937f876e51019a3f0e8.png",
     "index.html": "/Portfolio_Website_CodeBase/index.html",
     "main.cbcd6fcf.css.map": "/Portfolio_Website_CodeBase/static/css/main.cbcd6fcf.css.map",
-    "main.b5949416.js.map": "/Portfolio_Website_CodeBase/static/js/main.b5949416.js.map",
+    "main.f2c32925.js.map": "/Portfolio_Website_CodeBase/static/js/main.f2c32925.js.map",
     "488.da06dc2b.chunk.js.map": "/Portfolio_Website_CodeBase/static/js/488.da06dc2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbcd6fcf.css",
-    "static/js/main.b5949416.js"
+    "static/js/main.f2c32925.js"
   ]
 }
